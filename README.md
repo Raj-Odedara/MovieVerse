@@ -117,4 +117,4 @@ If you'd prefer to set everything up manually:
 
 4. Start the project:
    ```bash
-  npx expo start
+     npx expo start
