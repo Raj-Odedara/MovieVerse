@@ -36,26 +36,34 @@ Welcome to **MovieVerse** – your one-stop mobile app to explore trending movie
 ### 🏠 Home Screen
 <img src="./assets/Screenshots/HomeScreen.jpg" width="300" alt="Home Screen" />
 
+
 ### 🎬 Movie Details
 <img src="./assets/Screenshots/MovieDetails.jpg" width="300" alt="Movie Details" />
+
 
 ### 👤 Person Details
 <img src="./assets/Screenshots/PersonDetails.jpg" width="300" alt="Person Details" />
 
+
 ### 🔍 Search Movie
 <img src="./assets/Screenshots/SearchMovie.jpg" width="300" alt="Search Movie" />
+
 
 ### 📄 Search Results
 <img src="./assets/Screenshots/SearchResults.jpg" width="300" alt="Search Results" />
 
+
 ### 🎞️ Similar Movies
 <img src="./assets/Screenshots/SimilarMovies.jpg" width="300" alt="Similar Movies" />
+
 
 ### ⭐ Top Rated Movies
 <img src="./assets/Screenshots/TopRatedMovies.jpg" width="300" alt="Top Rated Movies" />
 
+
 ### 📆 Upcoming Movies
 <img src="./assets/Screenshots/UpcomingMovies.jpg" width="300" alt="Upcoming Movies" />
+
 
 ### ⚠️ Error Message
 <img src="./assets/Screenshots/ErrorMessage.jpg" width="300" alt="Error Message" />
