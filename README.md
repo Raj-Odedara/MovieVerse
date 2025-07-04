@@ -32,50 +32,32 @@
 
 ## 🖼️ App Screenshots
 
-<p align="center">
 ### 🏠 Home Screen  
 <img src="./assets/Screenshots/HomeScreen.jpg" width="300" alt="Home Screen" />
-</p>
 
-<p align="center">
 ### 🎬 Movie Details  
 <img src="./assets/Screenshots/MovieDetails.jpg" width="300" alt="Movie Details" />
-</p>
 
-<p align="center">
 ### 👤 Person Details  
 <img src="./assets/Screenshots/PersonDetails.jpg" width="300" alt="Person Details" />
-</p>
 
-<p align="center">
 ### 🔍 Search Movie  
 <img src="./assets/Screenshots/SearchMovie.jpg" width="300" alt="Search Movie" />
-</p>
 
-<p align="center">
 ### 📄 Search Results  
 <img src="./assets/Screenshots/SearchResults.jpg" width="300" alt="Search Results" />
-</p>
 
-<p align="center">
 ### 🎞️ Similar Movies
 <img src="./assets/Screenshots/SimilarMovies.jpg" width="300" alt="Similar Movies" />
-</p>
 
-<p align="center">
 ### ⭐ Top Rated Movies  
 <img src="./assets/Screenshots/TopRatedMovies.jpg" width="300" alt="Top Rated Movies" />
-</p>
 
-<p align="center">
 ### 📆 Upcoming Movies  
 <img src="./assets/Screenshots/UpcomingMovies.jpg" width="300" alt="Upcoming Movies" />
-</p>
 
-<p align="center">
 ### ⚠️ Error Message  
 <img src="./assets/Screenshots/ErrorMessage.jpg" width="300" alt="Error Message" />
-</p>
 
 ---
 
