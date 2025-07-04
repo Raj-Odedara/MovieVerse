@@ -32,47 +32,48 @@
 
 ## 🖼️ App Screenshots
 
-### 🏠 Home Screen  
 <p align="center">
+### 🏠 Home Screen  
 <img src="./assets/Screenshots/HomeScreen.jpg" width="300" alt="Home Screen" />
 </p>
 
-### 🎬 Movie Details  
 <p align="center">
+### 🎬 Movie Details  
 <img src="./assets/Screenshots/MovieDetails.jpg" width="300" alt="Movie Details" />
 </p>
 
-### 👤 Person Details  
 <p align="center">
+### 👤 Person Details  
 <img src="./assets/Screenshots/PersonDetails.jpg" width="300" alt="Person Details" />
 </p>
 
-### 🔍 Search Movie  
 <p align="center">
+### 🔍 Search Movie  
 <img src="./assets/Screenshots/SearchMovie.jpg" width="300" alt="Search Movie" />
 </p>
 
-### 📄 Search Results  
 <p align="center">
+### 📄 Search Results  
 <img src="./assets/Screenshots/SearchResults.jpg" width="300" alt="Search Results" />
 </p>
 
-### 🎞️ Similar Movies  
-<img src="./assets/Screenshots/SimilarMovies.jpg" width="300" alt="Similar Movies" />
-
-
-### ⭐ Top Rated Movies  
 <p align="center">
+### 🎞️ Similar Movies
+<img src="./assets/Screenshots/SimilarMovies.jpg" width="300" alt="Similar Movies" />
+</p>
+
+<p align="center">
+### ⭐ Top Rated Movies  
 <img src="./assets/Screenshots/TopRatedMovies.jpg" width="300" alt="Top Rated Movies" />
 </p>
 
-### 📆 Upcoming Movies  
 <p align="center">
+### 📆 Upcoming Movies  
 <img src="./assets/Screenshots/UpcomingMovies.jpg" width="300" alt="Upcoming Movies" />
 </p>
 
-### ⚠️ Error Message  
 <p align="center">
+### ⚠️ Error Message  
 <img src="./assets/Screenshots/ErrorMessage.jpg" width="300" alt="Error Message" />
 </p>
 
