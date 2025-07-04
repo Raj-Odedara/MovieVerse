@@ -3,7 +3,7 @@
 Welcome to **MovieVerse** – your one-stop mobile app to explore trending movies, detailed cast information, and personalized recommendations. Built with **React Native**, this app brings the magic of cinema to your fingertips.
 
 <p align="center">
-  <img src="./assets/Screenshots/AppIcon.png" alt="App Icon" width="150" />
+  <img src="./assets/Screenshots/AppIcon.png" alt="App Icon" width="60" />
 </p>
 
 ---
@@ -34,31 +34,31 @@ Welcome to **MovieVerse** – your one-stop mobile app to explore trending movie
 ## 🖼️ App Screenshots
 
 ### 🏠 Home Screen
-![Home Screen](./assets/Screenshots/HomeScreen.jpg)
+<img src="./assets/Screenshots/HomeScreen.jpg" width="100" alt="Home Screen" />
 
 ### 🎬 Movie Details
-![Movie Details](./assets/Screenshots/MovieDetails.jpg)
+<img src="./assets/Screenshots/MovieDetails.jpg" width="100" alt="Movie Details" />
 
 ### 👤 Person Details
-![Person Details](./assets/Screenshots/PersonDetails.jpg)
+<img src="./assets/Screenshots/PersonDetails.jpg" width="100" alt="Person Details" />
 
 ### 🔍 Search Movie
-![Search Movie](./assets/Screenshots/SearchMovie.jpg)
+<img src="./assets/Screenshots/SearchMovie.jpg" width="100" alt="Search Movie" />
 
 ### 📄 Search Results
-![Search Results](./assets/Screenshots/SearchResults.jpg)
+<img src="./assets/Screenshots/SearchResults.jpg" width="100" alt="Search Results" />
 
 ### 🎞️ Similar Movies
-![Similar Movies](./assets/Screenshots/SimilarMovies.jpg)
+<img src="./assets/Screenshots/SimilarMovies.jpg" width="100" alt="Similar Movies" />
 
 ### ⭐ Top Rated Movies
-![Top Rated Movies](./assets/Screenshots/TopRatedMovies.jpg)
+<img src="./assets/Screenshots/TopRatedMovies.jpg" width="100" alt="Top Rated Movies" />
 
 ### 📆 Upcoming Movies
-![Upcoming Movies](./assets/Screenshots/UpcomingMovies.jpg)
+<img src="./assets/Screenshots/UpcomingMovies.jpg" width="100" alt="Upcoming Movies" />
 
 ### ⚠️ Error Message
-![Error Message](./assets/Screenshots/ErrorMessage.jpg)
+<img src="./assets/Screenshots/ErrorMessage.jpg" width="100" alt="Error Message" />
 
 ---
 
