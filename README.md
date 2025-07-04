@@ -2,7 +2,9 @@
 
 Welcome to **MovieVerse** – your one-stop mobile app to explore trending movies, detailed cast information, and personalized recommendations. Built with **React Native**, this app brings the magic of cinema to your fingertips.
 
-![MovieVerse Banner](./assets/banner.png)
+<p align="center">
+  <img src="./assets/Screenshots/AppIcon.png" alt="App Icon" width="150" />
+</p>
 
 ---
 
@@ -29,11 +31,34 @@ Welcome to **MovieVerse** – your one-stop mobile app to explore trending movie
 
 ---
 
-## 🖼️ Screenshots
+## 🖼️ App Screenshots
 
-| Home Screen            | Movie Details            | Actor Profile            |
-|------------------------|--------------------------|---------------------------|
-| ![](./assets/home.png) | ![](./assets/movie.png)  | ![](./assets/actor.png)   |
+### 🏠 Home Screen
+![Home Screen](./assets/Screenshots/HomeScreen.jpg)
+
+### 🎬 Movie Details
+![Movie Details](./assets/Screenshots/MovieDetails.jpg)
+
+### 👤 Person Details
+![Person Details](./assets/Screenshots/PersonDetails.jpg)
+
+### 🔍 Search Movie
+![Search Movie](./assets/Screenshots/SearchMovie.jpg)
+
+### 📄 Search Results
+![Search Results](./assets/Screenshots/SearchResults.jpg)
+
+### 🎞️ Similar Movies
+![Similar Movies](./assets/Screenshots/SimilarMovies.jpg)
+
+### ⭐ Top Rated Movies
+![Top Rated Movies](./assets/Screenshots/TopRatedMovies.jpg)
+
+### 📆 Upcoming Movies
+![Upcoming Movies](./assets/Screenshots/UpcomingMovies.jpg)
+
+### ⚠️ Error Message
+![Error Message](./assets/Screenshots/ErrorMessage.jpg)
 
 ---
 
