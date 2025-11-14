@@ -6,9 +6,8 @@
   <img src="./assets/Screenshots/AppIcon.png" width="120" alt="App Icon" />
 </p>
 
-## 📥 APK Download
-Click the link below to download the latest stable APK build of the app:
-[Download the latest APK](https://drive.google.com/file/d/1x3mobsrY9xo6tv_13L_ku1TRDGaVGfq6/view?usp=drive_link)
+### 📥 Download APK:
+[Click here to download](https://drive.google.com/file/d/1x3mobsrY9xo6tv_13L_ku1TRDGaVGfq6/view?usp=drive_link)
 
 ---
 
