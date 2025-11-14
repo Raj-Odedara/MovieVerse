@@ -92,9 +92,10 @@ If you'd prefer to set everything up manually:
   This downloads all the MovieVerse source code into your newly created Expo app folder.
 
 ## Method 2: Clone the Repository Directly
-    ```bash
+  ```bash
     git clone https://github.com/Raj-Odedara/MovieVerse.git
     cd MovieVerse
+  ```
     
 ## 🔑 Add Your TMDb API Key
 Inside the project, open:
