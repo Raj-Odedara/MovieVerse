@@ -1,0 +1,42 @@
+{
+  "expo": {
+    "name": "MovieVerse",
+    "slug": "MovieVerse",
+    "version": "1.0.0",
+    "orientation": "default",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": false,
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#1C1C1E"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#1C1C1E"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.anonymous.MovieVerse"
+    },
+    "updates": {
+      "enabled": false
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "6e1b69a2-2c10-4c87-ac8e-f8f217081368"
+      }
+    },
+    "plugins": [
+      "expo-asset"
+    ],
+    "owner": "raj1310"
+  }
+}
