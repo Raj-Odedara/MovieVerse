@@ -24,7 +24,6 @@
 |-------------------|-----------------------------------------|
 | Frontend          | React Native, NativeWind, Expo          |
 | Backend/API       | TMDb API (The Movie Database)           |
-| State Management  | React Redux                             |
 | Styling           | Tailwind CSS (via NativeWind)           |
 | Version Control   | Git, GitHub                             |
 
@@ -78,43 +77,42 @@ Before getting started, ensure you have the following installed:
 ### Create a New Expo App Manually
 If you'd prefer to set everything up manually:
 
+## Method 1: Create a Fresh Expo Project & Pull the Repo Into It
 1. Create a blank Expo project:
    ```bash
     npx create-expo-app movieverse --template blank
     cd movieverse
 
-2. Install all required dependencies used in this app:
+2. Pull MovieVerse files into this project:
     ```bash
-    npm install \
-      @react-native-community/netinfo \
-      @react-navigation/native \
-      @react-navigation/native-stack \
-      @react-navigation/drawer \
-      @types/react-native-snap-carousel \
-      axios \
-      expo \
-      expo-asset \
-      expo-linear-gradient \
-      expo-splash-screen \
-      expo-status-bar \
-      nativewind \
-      prop-types \
-      react \
-      react-addons-shallow-compare \
-      react-native \
-      react-native-heroicons \
-      react-native-progress \
-      react-native-reanimated \
-      react-native-reanimated-carousel \
-      react-native-safe-area-context \
-      react-native-screens \
-      react-native-snap-carousel \
-      tailwindcss
+    git init
+    git remote add origin https://github.com/Raj-Odedara/MovieVerse.git
+    git pull origin main
+ 
+  This downloads all the MovieVerse source code into your newly created Expo app folder.
 
-3. Install Expo dev tools (if not already installed globally):
-    ```bash
-    npm install -g expo-cli
+## Method 2: Clone the Repository Directly
+git clone https://github.com/Raj-Odedara/MovieVerse.git
+cd MovieVerse
 
-4. Start the project:
+## 🔑 Add Your TMDb API Key
+Inside the project, open:
+  ```bash
+  constants/index.js
+  ```
+Add your real API key here:
+  ```bash
+  export const apiKey = "YOUR_TMDB_API_KEY_HERE";
+  ```
+
+### ▶️ Run the Project
+
+Install dependencies:
    ```bash
-     npx expo start
+     npx install
+   ```
+Start the app:
+  ```bash
+  npx expo start
+  ```
+Scan the QR using Expo Go or run on an emulator.
